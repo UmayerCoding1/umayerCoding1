@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/media/AAYQAgTPAAgAAQAAAAAAADVuOvKzTF-3RD6j-qFPqhubBQ.png">
+
 
 <h1 align="center">Hi 👋, I'm Md Umayer hossain</h1>
 <h3 align="center">A passionate full stack(MERN) developer from Bangladesh</h3>
