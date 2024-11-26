@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umayercoding1" alt="umayercoding1" /></a> </p>
 
-- 🔭 I’m currently working on [eMarket hub](https://emarket-hub.web.app/)
+- 🔭 I’m currently working on [eMarket hub](https://emarket-hub.web.app)
 
 - 🌱 I’m currently learning **mongoose**
 
-- 👨‍💻 All of my projects are available at [https://umayer-hossain.vercel.app/](https://umayer-hossain.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://umayer-hossain.vercel.app/](https://umayer-hossain.vercel.app)
 
 - 📫 How to reach me **umayerhossain.dev@gmail.com**
 
