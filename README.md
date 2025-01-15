@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [TRAVELBD.com](------)
 
-- 🌱 I’m currently learning **mongoose**
+- 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at [https://umayer-hossain.vercel.app](https://umayer-hossain.vercel.app)
 
