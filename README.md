@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [TRAVELBD.com](https://fascinating-marzipan-6ba2a2.netlify.app)
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Next.js** / **TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://umayer-hossain.vercel.app](https://umayer-hossain.vercel.app)
 
