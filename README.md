@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Next.js** / **TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://umayer-hossain.vercel.app](https://umayer-hossain.vercel.app)
+- 👨‍💻 All of my projects are available at [https://umayer-hossain.vercel.app](https://umayerhossain.vercel.app/)
 
 - 📫 How to reach me **umayerhossain.dev@gmail.com**
 
