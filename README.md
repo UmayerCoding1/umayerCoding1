@@ -16,7 +16,7 @@ I thrive in fast-paced, dynamic environments and am always eager to learn new te
 
 <!-- profile views -->
  <a href="https://github.com/Idba1" style="margin: 10px 0; display: flex; align-items: center;">
-    <img src="https://komarev.com/ghpvc/?username=Idba1&style=for-the-badge&color=brightgreen" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=umayerCoding1&style=for-the-badge&color=brightgreen" alt="Profile Views"/>
   </a>
 
 
