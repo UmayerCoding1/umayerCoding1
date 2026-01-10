@@ -39,7 +39,7 @@ I thrive in fast-paced, dynamic environments and am always eager to learn new te
     <table style="border-collapse: collapse; width: 100%;">
         <tr>
             <td align="center" width="50%">
- [![GitHub Streak](https://streak-stats.demolab.com?user=UmayerCoding1&theme=dark)](https://git.io/streak-stats)
+[![](https://visitcount.itsvg.in/api?id=UmayerCoding1&icon=0&color=0)](https://visitcount.itsvg.in)]
             </td>
             <td align="center" width="50%">
                 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=umayerCoding1&theme=transparent&utcOffset=6" alt="Commit Times">
