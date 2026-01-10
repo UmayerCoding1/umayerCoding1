@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">My name is MD Lukman Miah and I'm a MERN Stack Developer, from Sylhet, Bangladesh.</p>
+<p align="left">My name is MD Umayer Hossain and I'm a Full Stack Developer, from Chandpur, Bangladesh.</p>
 
 ###
 
@@ -11,13 +11,24 @@
 
 ###
 
-<p align="left">I'm a MERN stack developer passionate about building scalable and efficient web applications. I specialize in React for the frontend and Node.js with Express for the backend, using MongoDB for data management. Always eager to learn and explore new technologies! 🚀</p>
+<p align="left">Hi, I'm Umayer Hossain — a passionate and curious Full-Stack Web Developer with a strong focus on frontend development. I have a solid foundation in React, TailwindCSS, JavaScript, and TypeScript, and I love transforming ideas into clean, functional, and visually engaging web applications.I specialize in building responsive and dynamic interfaces using React.js, and have hands-on experience with Express for backend services and MongoDB for database management. I'm also proficient in API integration to enhance functionality and performance.
+<br>
+I thrive in fast-paced, dynamic environments and am always eager to learn new technologies and improve my skills. My goal is to build web applications that are user-friendly, efficient, and visually appealing.
+
+</p>
 
 ###
 
-<p align="left">✨ Creating Dynamic Websites since 2023.<br>📚 I'm currently learning Next Js & Typescript.<br>🎯 Goals: Become a senior developer in 2026.<br>🎲 Fun fact: I love coding while listening to music.</p>
+<div>
+  <a href="https://github.com/Idba1" style="margin: 10px 0; display: flex; align-items: center;">
+    <img src="https://komarev.com/ghpvc/?username=umayerCoding1&style=for-the-badge&color=brightgreen" alt="Profile Views"/>
+  </a>
+  <p align="left">✨ Creating Dynamic Websites since.<br>📚 I'm currently learning Next Js & Typescript.<br>🎯 Goals: Become a senior developer in 2026.<br>🎲 Fun fact: I love coding while listening to music.</p>
+</div>
+
 
 ###
+
 
 <h2 align="center">I code with</h2>
 
