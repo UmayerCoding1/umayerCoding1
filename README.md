@@ -41,9 +41,9 @@ I thrive in fast-paced, dynamic environments and am always eager to learn new te
     <!-- First Row -->
     <table style="border-collapse: collapse; width: 100%;">
         <tr>
-            <td align="center" width="50%">
-[![](https://visitcount.itsvg.in/api?id=UmayerCoding1&icon=0&color=0)](https://visitcount.itsvg.in)]
-            </td>
+           <td align="center" width="50%">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=umayerCoding1&theme=blueberry_duo"/>
+           </td>
             <td align="center" width="50%">
                 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=umayerCoding1&theme=transparent&utcOffset=6" alt="Commit Times">
             </td>
