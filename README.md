@@ -42,7 +42,7 @@ I thrive in fast-paced, dynamic environments and am always eager to learn new te
     <table style="border-collapse: collapse; width: 100%;">
         <tr>
            <td align="center" width="50%">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=umayerCoding1&theme=blueberry_duo"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=umayerCoding1&theme=blueberry_duo" alt="Commit status"/>
            </td>
             <td align="center" width="50%">
                 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=umayerCoding1&theme=transparent&utcOffset=6" alt="Commit Times">
